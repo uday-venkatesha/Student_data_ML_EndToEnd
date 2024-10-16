@@ -15,9 +15,11 @@ downloads/
 eggs/
 .eggs/
 lib/
+catboost_info/
 lib64/
 parts/
 sdist/
+artifacts/
 var/
 wheels/
 share/python-wheels/
